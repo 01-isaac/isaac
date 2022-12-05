@@ -2,7 +2,7 @@
 - 👀 interested in coding/gaming/designing
 - 🌱 learning c++
 - 💞️ collaborate on c++ projects
-- 📫 discord: Ryyz01
+- 📫 discord: isaac01
 
 <!---
 Ryzz01/Ryzz01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
