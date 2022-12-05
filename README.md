@@ -1,4 +1,4 @@
-- 👋 hi, I’m @Ryzz01
+- 👋 hi, I’m @Isaac01
 - 👀 interested in coding/gaming/designing
 - 🌱 learning c++
 - 💞️ collaborate on c++ projects
